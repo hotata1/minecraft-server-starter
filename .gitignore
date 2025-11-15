@@ -47,7 +47,7 @@ Geyser-Spigot.jar
 Floodgate-Spigot.jar
 
 # mcrconなどの機密情報を含む可能性のあるファイル
-check_and_stop.sh
+# check_and_stop.sh
 # 実行権限をローカルで変更した実行ファイルは、明示的に無視する
 # (Lambdaコードを直接含めている場合は不要)
 
